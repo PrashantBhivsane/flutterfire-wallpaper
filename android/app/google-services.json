@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234650972025",
+    "firebase_url": "https://papers-list.firebaseio.com",
+    "project_id": "papers-list",
+    "storage_bucket": "papers-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234650972025:android:6363e09706f6d0f1",
+        "android_client_info": {
+          "package_name": "com.example.test_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234650972025-okm2i02jr156j9gjqcs8t189sgjaio8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBifY6E9bTepjAY7uC5r2U5DO_oMKzPows"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234650972025-okm2i02jr156j9gjqcs8t189sgjaio8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
